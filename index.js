@@ -145,4 +145,68 @@
 // console.log("ad"!=="ab");
 // console.log("ad"==="ad");
 
+// в условие if заходим только тогда когда TRUE 
 
+// let age = 10
+// let myName = "Lua"
+// let horror = "Ужас"
+// let actionMovise = "Боевик"
+// let cartoon = "Мультик"
+
+// if (age >= 18) {
+//     console.log("Вам " + age + "лет, поэтому смотреть можно " + horror + " жфнр");
+// }
+// else if (age < 18) {
+//     console.log("Вам " + age + "лет, поэтому можно смотреть только " + cartoon + " жанр");
+// }
+
+let str = "Chechnya"
+let i = 0
+// console.log(str[0]);
+// console.log(str[1]);
+// console.log(str[2]);
+// console.log(str[3]);
+// console.log(str[4]);
+// console.log(str[5]);
+// console.log(str[6]);
+// console.log(str[7]);
+
+// console.log(str[i++]);
+
+
+// for (let i = 0; i < str.length; i++) {
+// console.log(str[i]);
+// }
+
+// написать цикл от 21 до 122
+21
+23
+25
+
+// for (let i = 21; i < 122; i+=2) {
+// console.log(i);
+// }
+
+// for ( let i =2; i < 37; i++) {
+// if (i % 2 ===0)
+// console.log(i);
+// // }
+
+// for (let i = 2; i < 37; i++) {
+//     if (i % 2 ===1) {
+//     console.log(i);
+// //     }
+// // }
+
+// for (let i = 0; i < 100; i++) {
+//   if (i % 2 === 0) {
+//         console.log("Chetnoe");
+//         elsi [
+//             console.log(Nechetnoe)
+//         ]
+        
+//     }
+// }
+
+// && - И  if (true && true) 
+// || - Или if (true || true)
